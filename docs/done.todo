@@ -1,10 +1,13 @@
 Development:
   ✔ Create done.py @done (14-04-19 15:37)
+  ✔ Create the first unit test to propose to display help when command line is invoked @done (14-04-19 16:21)
+  ☐ Create a second unit test to display help when user invoked "done help"
 
 Project Management:
   ✔ Create the repository on GitHub @done (14-04-19 15:29)
 
 Documentation:
+  ✔ Correct readme.md to display correctly on github @done (14-04-19 16:25)
   ✔ fill readme.md @done (14-04-19 15:29)
     ✔ Fill Done section @done (14-04-19 15:22)
     ✔ Fill section usage @done (14-04-19 15:26)

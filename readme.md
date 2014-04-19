@@ -6,28 +6,28 @@
 
 * Register a new activity
 
-'''
+```
 done "I have visited eiffel tower."
-'''
+```
 
 * List activities you have done today
 
-'''
+```
 done today
-'''
+```
 
-'''
+```
 [Today]
 * We have visited eiffel tower.
-'''
+```
 
 * List activities you have done this week
 
-'''
+```
 done this week
-'''
+```
 
-'''
+```
 [Today]
 * We have visited eiffel tower.
 
@@ -39,3 +39,4 @@ done this week
 
 [16/04/2014]
 ...
+```
